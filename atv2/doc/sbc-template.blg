@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: sbc-template.aux
+The style file: sbc.bst
+Database file #1: sbc-template.bib
+Warning--empty booktitle in McAuley2012
+You've used 1 entry,
+            1935 wiz_defined-function locations,
+            476 strings with 3779 characters,
+and the built_in function-call counts, 359 in all, are:
+= -- 31
+> -- 13
+< -- 1
++ -- 4
+- -- 4
+* -- 24
+:= -- 66
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 7
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 17
+empty$ -- 30
+format.name$ -- 7
+if$ -- 70
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 3
+pop$ -- 11
+preamble$ -- 1
+purify$ -- 7
+quote$ -- 0
+skip$ -- 11
+stack$ -- 0
+substring$ -- 12
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 6
+warning$ -- 1
+while$ -- 2
+width$ -- 0
+write$ -- 14
+(There was 1 warning)
